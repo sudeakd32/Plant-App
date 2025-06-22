@@ -67,12 +67,12 @@ Designed following Apple’s Model-View-Controller paradigm for clear, maintaina
 
 ### Main Screen
 
-![Main Screen]((https://github.com/user-attachments/assets/d778b4ce-cfce-48cc-bb46-fd9e7a27445f))
+![Main Screen](https://github.com/user-attachments/assets/d778b4ce-cfce-48cc-bb46-fd9e7a27445f)
 
 
 ### Create your vase with flower Drag and Drop feauture
 
-![Drag Drop](https://github.com/user-attachments/assets/148bb043-9eb0-40cb-8d53-fd1500530d30))
+![Drag Drop](https://github.com/user-attachments/assets/148bb043-9eb0-40cb-8d53-fd1500530d30)
 
 
 ### Settings 
