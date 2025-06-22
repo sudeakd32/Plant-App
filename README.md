@@ -66,18 +66,27 @@ Designed following Apple’s Model-View-Controller paradigm for clear, maintaina
 ## 🖼️ Screenshots
 
 ### Main Screen
-![Main Screen] ((https://github.com/user-attachments/assets/d778b4ce-cfce-48cc-bb46-fd9e7a27445f))
+
+![Main Screen]((https://github.com/user-attachments/assets/d778b4ce-cfce-48cc-bb46-fd9e7a27445f))
+
 
 ### Create your vase with flower Drag and Drop feauture
+
 ![Drag Drop](https://github.com/user-attachments/assets/148bb043-9eb0-40cb-8d53-fd1500530d30))
 
+
 ### Settings 
+
 ![Save Options](https://github.com/user-attachments/assets/2fd1988c-3b8a-462a-b08b-4b20a53f839c)
 
+
 ### Feed with plant pictures and comments
+
 ![Feed](https://github.com/user-attachments/assets/d9dc1d74-7a25-41c2-b27f-3f876eb5ec61)
 
+
 ### Upload your plants
+
 ![Upload](https://github.com/user-attachments/assets/57f8e563-e2f3-42fe-b680-958110390902)
 
 
